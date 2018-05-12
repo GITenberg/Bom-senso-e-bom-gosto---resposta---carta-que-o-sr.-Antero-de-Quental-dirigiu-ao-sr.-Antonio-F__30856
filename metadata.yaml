@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34860'
     url: http://www.gutenberg.org/2009/agents/34860
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30856#Bom-senso-e-bom-gosto---resposta---carta-que-o-sr.-Antero-de-Quental-dirigiu-ao-sr.-Antonio-F_
 gutenberg_bookshelf: PT Política e Sociedade
 gutenberg_issued: '2010-01-04'
 gutenberg_type: Text
