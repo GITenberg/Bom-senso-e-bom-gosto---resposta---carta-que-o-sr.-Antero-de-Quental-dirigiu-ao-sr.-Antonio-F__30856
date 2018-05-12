@@ -1,0 +1,31 @@
+_repo: Bom-senso-e-bom-gosto---resposta---carta-que-o-sr.-Antero-de-Quental-dirigiu-ao-sr.-Antonio-F__30856
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rousaddo, Manuel, barão de Roussado
+    alias: Rousaddo, Manuel, barao de Roussado
+    birthdate: 1833
+    gutenberg_agent_id: '34860'
+    url: http://www.gutenberg.org/2009/agents/34860
+description: ''
+gutenberg_bookshelf: PT Política e Sociedade
+gutenberg_issued: '2010-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30856'
+  lccn: '34037328'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quental, Antero de, 1842-1891. Bom senso e bom gosto'
+- !lcc 'PQ'
+title: 'Bom senso e bom gosto : resposta à carta que o sr. Antero de Quental dirigiu
+  ao sr. Antonio Feliciano de Castilho
+
+  Segunda edição augmentada e seguida de uma carta sabre o mesmo assumpto'
+url: http://www.gutenberg.org/ebooks/30856
